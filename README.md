@@ -1,5 +1,4 @@
 # m-citybrain
-城市大脑移动端
 
 ## npm scripts
 npm run serve - 启动本地服务
